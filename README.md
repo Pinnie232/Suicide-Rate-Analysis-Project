@@ -2,7 +2,7 @@
 The Suicide Rate Analysis Project aims to explore the concerning trend of suicide rates spanning from 1985 to 2016 across 101 countries. With a dataset encompassing 30,000 entries, this project seeks to shed light on the complex factors contributing to the alarming rise in suicide rates over the years.
 
 ## OVERVIEW
-Data is collected from kaggle:[](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016)
+Data is collected from kaggle:[kaggle](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016)
 
 ## Methodology
 Data Collection: Utilize a comprehensive dataset comprising suicide statistics, demographic information, and socio-economic indicators.
