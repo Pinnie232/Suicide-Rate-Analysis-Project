@@ -28,7 +28,7 @@ Data is collected from kaggle:[kaggle](https://www.kaggle.com/datasets/russellya
    ![View the data](https://github.com/Pinnie232/Suicide-Rate-Analysis-Project/blob/main/Images/viewthedata.png)
    
 
- View the python folder ![Suicide Rate](https://github.com/Pinnie232/Suicide-Rate-Analysis-Project/blob/main/Suicide_Rates_Overview_1985_to_2016.ipynb)
+ View the python folder:[Suicide Rate](https://github.com/Pinnie232/Suicide-Rate-Analysis-Project/blob/main/Suicide_Rates_Overview_1985_to_2016.ipynb)
 
 ### VIZUALIZATION
 ![Vizualization](https://github.com/Pinnie232/Suicide-Rate-Analysis-Project/blob/main/vizualization.png)
