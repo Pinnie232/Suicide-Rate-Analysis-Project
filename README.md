@@ -9,12 +9,19 @@ Data is collected from kaggle:[kaggle](https://www.kaggle.com/datasets/russellya
 + Exploratory Data Analysis (EDA): Conducted thorough EDA to uncover patterns, outliers, and relationships within the data.
 + Visualization: Utilized data visualization tools to communicate findings effectively and intuitively.
 
-  ### Python
+  ### PYTHON
   Clean the data using python. 
   - Import the python libraries
+    
   ![Import Libraries](https://github.com/Pinnie232/Suicide-Rate-Analysis-Project/blob/main/Images/CleanPython1.png)
+
+
  - Import the data
+   
    ![Import the data](https://github.com/Pinnie232/Suicide-Rate-Analysis-Project/blob/main/Images/importthedata.png)
+
+
+   
  - View the data
    ![View the data](https://github.com/Pinnie232/Suicide-Rate-Analysis-Project/blob/main/Images/viewthedata.png)
    
