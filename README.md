@@ -23,6 +23,8 @@ Data is collected from kaggle:[kaggle](https://www.kaggle.com/datasets/russellya
 
    
  - View the data
+
+   
    ![View the data](https://github.com/Pinnie232/Suicide-Rate-Analysis-Project/blob/main/Images/viewthedata.png)
    
  
